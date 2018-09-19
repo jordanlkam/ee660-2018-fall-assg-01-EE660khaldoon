@@ -7,7 +7,8 @@ Lets assume normal speed= x and execute time is twice normal speed= 2x
 Energy saving
 
 b) 
-Energy(old) = 1/2 * load capacitive* (V)^2
+
+   Energy(old) = 1/2 * load capacitive* (V)^2
    Engery(new) = 1/2 * load capacitive* (1/2* V^2)^2 
    Engery(new)/Energy(old)= 1/4
    
@@ -20,7 +21,7 @@ C.1: a)
 |R_2|LD|DADDI|
 |R_2|SD|DADDI|
 |R_2|DADDI|DSUB|
-|R_4|BNEZ|DSUB|
+|R_4|DSUB|BNEZ|
 
 
 
