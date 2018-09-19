@@ -17,6 +17,7 @@ C.1: a)
 |R_1|DADDI|SD|
 |R_2|LD|DADDI|
 |R_2|SD|DADDI|
+|R_2|DADDI|DSUB|
 |R_4|BNEZ|DSUB|
 
 
