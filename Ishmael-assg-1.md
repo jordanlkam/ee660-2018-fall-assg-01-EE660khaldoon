@@ -33,6 +33,9 @@ b)
 |DADDI  R_1, R_1, #1| |FT|s|s|DC|EI|MR|WRB|
 |SD 0(R_2), R_1|||||FT|s|s|DC|EI|MR|WRB|
 |DADDI  R_2, R_2, #4||||||||FT|s|s|DC|EI|MR|WRB|
+|DSUB R_4,  R_3,  R_2|||||||||FT|s|s|DC|EI|MR|WRB|
+|BNEZ R_4, Loop||||||||||||FT|s|s|DC|EI|MR|WRB|
+|LD   R_1, 0(R_2)|||||||||||||||||FT|DC|
 
 
 
