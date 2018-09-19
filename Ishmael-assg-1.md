@@ -9,10 +9,16 @@ b) Energy(old) = 1/2 * load capacitive* V^2
    Engery(new) = 1/2 * load capacitive* (1/2* V^2)^2 
    Engery(new)/Energy(old)= 1/4
    
+C.1:
+a)
    |Register|Source Instruction|Destination Istruction|
    |-----|------|------|
    |R_1|LD|DADDI|
    |R_1|DADDI|SD|
+   |R_2|LD|DADDI|
+   |R_1|SD|DADDI|
+   |R_4|BNEZ|DADDI|
+   
    
 
    
