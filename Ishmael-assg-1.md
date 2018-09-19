@@ -10,7 +10,8 @@ b) Energy(old) = 1/2 * load capacitive* V^2
    Engery(new)/Energy(old)= 1/4
    
 C.1: 
-|Register|Source Instruction|Destination Istruction|
+| Register | Source Instruction |Destination Istruction |
+|----------|--------|----------|
 
 
 
