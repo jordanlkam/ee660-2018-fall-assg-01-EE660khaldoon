@@ -13,6 +13,10 @@ C.1:
 |Register|Source Instructor|Destination Instructor|
 |--------|---------|---------|
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
    
