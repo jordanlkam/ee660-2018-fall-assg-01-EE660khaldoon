@@ -13,7 +13,6 @@ C.1:
 a)
 |Register|Source Instruction|Destination Istruction|
 |-----|------|------|
-|R_1|LD|DADDI|
 
 
    
