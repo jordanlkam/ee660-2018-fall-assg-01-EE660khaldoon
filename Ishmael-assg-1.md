@@ -14,7 +14,7 @@ a)
 |Register|Source Instruction|Destination Istruction|
 |-----|------|------|
 |R_1|LD|DADDI|
-|R_1|DADDI|SD|
+
 
    
    
