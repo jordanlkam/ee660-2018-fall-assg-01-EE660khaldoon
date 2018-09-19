@@ -13,11 +13,13 @@ C.1: a)
     
 |Register|Source Instructor|Destination Instructor|
 |--------|---------|---------|
+|R_1|LD|DADDI|
+|R_1|DADDI|SD|
+|R_2|LD|DADDI|
+|R_2|SD|DADDI|
+|R_4|BNEZ|DSUB|
 
-| First Header  | Second Header | Second Header |
-| ------------- | ------------- |---------------|
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
 
 
    
