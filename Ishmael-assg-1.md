@@ -8,8 +8,7 @@ Lets assume normal speed= x and execute time is twice normal speed= 2x
 b) Energy(old) = 1/2 * load capacitive* V^2
    Engery(new) = 1/2 * load capacitive* (1/2* V^2)^2 
    Engery(new)/Energy(old)= 1/4
-   
-C.1: 
+    
 |Register|Source Instructor|Destination Instructor|
 |--------|---------|---------|
 
