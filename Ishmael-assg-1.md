@@ -12,7 +12,7 @@ b) Energy(old) = 1/2 * load capacitive* V^2
 C.1:
 a)
 |Register|Source Instruction|Destination Istruction|
-|-----|------|------|
+
 
 
    
